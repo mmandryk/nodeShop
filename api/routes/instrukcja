@@ -1,0 +1,11 @@
+1. zalogować się do chmury
+2.npm start w projekcie
+3. pobieranie tylko i wyłącznie listy produktów bez logowania
+4. dodawanie zamowien/orders po zalogowaniu
+instrukcja:
+5.wyświetlanie koszyka po zalogowaniu 
+instrukcja:
+6.wyświetlenie produktu po id
+intrukja:
+aby pobrać produkt
+http://localhost:3000/products/ (jsonapplication/json....body....raw)
